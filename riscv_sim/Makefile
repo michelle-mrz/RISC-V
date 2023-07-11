@@ -1,5 +1,5 @@
 ################################################################################
-#             Makefile for the CS 3410 RISC-V Interpreter Project              #
+#             Makefile RISC-V Interpreter             #
 ################################################################################
 
 # Additional flags for the compiler
